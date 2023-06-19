@@ -34,9 +34,13 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Usage
 
-The following images shows the web application's appearance and functionality:
+The following images show the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+![The Password Generator application displays a dark green button to "Generate Password".](./Assets/Homescreen.png)
+
+![A prompt will appear asking you to choose the length and a series of prompts will follow.](./Assets/Display-Message.png)
+
+![Finally, the system will generate a password for you.](./Assets/Password-generated.png)
 
 ## Credits
 
