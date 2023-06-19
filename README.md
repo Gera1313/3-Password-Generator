@@ -42,15 +42,15 @@ The following images show the web application's appearance and functionality:
 
 First, you will click "Generate Password" button to bring up the first prompt. 
 
-![The Password Generator application displays a dark green button to "Generate Password".](./Assets/Homescreen.png)
+![The Password Generator application displays a dark green button to "Generate Password".](./Assets/Images/Homescreen.png)
 
 Then, you will follow a series of prompts to meet your password requirements. 
 
-![A prompt will appear asking you to choose the length and a series of prompts will follow.](./Assets/Display-Message.png)
+![A prompt will appear asking you to choose the length and a series of prompts will follow.](./Assets/Images/Display-Message.png)
 
 Finally, the system will create a password for you based on the selected criteria. 
 
-![Finally, the system will generate a password for you.](./Assets/Password-generated.png)
+![Finally, the system will generate a password for you.](./Assets/Images/Password-generated.png)
 
 ## Credits
 
