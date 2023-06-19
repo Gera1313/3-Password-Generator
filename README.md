@@ -52,6 +52,10 @@ Finally, the system will create a password for you based on the selected criteri
 
 ![Finally, the system will generate a password for you.](./Assets/Images/Password-generated.png)
 
+URL to the deployed site: 
+
+[Password Generator URL] (https://gera1313.github.io/3-Password-Generator/)
+
 ## Credits
 
 The following sources helped me in developing this project: 
