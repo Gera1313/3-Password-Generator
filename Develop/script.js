@@ -1,7 +1,6 @@
 // Creating my variables
 var characterLength = 8;
 var choiceArray = [];
-
 var specialCharacters = ['!', '"', '#', '$', '%', '&', '(', ')', '*', '+', '-', '/', ':', ';', ';', '<', '=', '>', '?', '@'];
 var lowerCase = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',];
 var upperCase = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z',];
@@ -25,6 +24,7 @@ function writePassword() {
     }
 }
 
+// generate password based on criteria 
 function generatePassword() {
   var password = "";
   for (var i = 0; i < characterLength; i++){
@@ -32,10 +32,9 @@ function generatePassword() {
     password = password + choiceArray[randomLetter];
   }
   return password; 
-
 }
 
-// generate password based on criteria 
+// Prompt selection. What the password will be made up of. 
 function getPrompts() {
   choiceArray = [];
   characterLength = parseInt(prompt("How long will your password be? (Choose between 8 - 128 characters."));
@@ -59,14 +58,3 @@ function getPrompts() {
   }
   return true; 
 }
-
-
-
-
-
-// 1. Prompt the user for password criteria.
-//  password length between 8 to 128 characters
-//  need lowercase, uppercase, numbers, & special characters
-// 2. Validate the input
-// 3. Generate password based on criteria
-// 4. Display password to the page
