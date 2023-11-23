@@ -2,7 +2,7 @@
 
 ## The Task
 
-To create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
+I created an application that enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and will feature dynamically updated HTML and CSS powered by JavaScript code. It will have a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
 ## User Story
 
@@ -58,7 +58,7 @@ URL to the deployed site:
 
 ## Credits
 
-The following sources helped me in developing this project: 
+The following sources aided me in developing this project: 
 
 [Random Password Generator using JavaScript](https://dev.to/code_mystery/random-password-generator-using-javascript-6a) 
 
