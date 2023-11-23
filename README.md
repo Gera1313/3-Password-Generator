@@ -56,7 +56,7 @@ Finally, the system will create a password for you based on the selected criteri
 
 URL to the deployed site: 
 
-[Password Generator URL] (https://gera1313.github.io/3-Password-Generator/)
+[Password Generator URL](https://gera1313.github.io/3-Password-Generator/)
 
 ## Credits
 
