@@ -32,10 +32,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Installation
-
-N/A
-
 ## Usage
 
 The following images show the web application's appearance and functionality:
@@ -52,6 +48,10 @@ Finally, the system will create a password for you based on the selected criteri
 
 ![Finally, the system will generate a password for you.](./Assets/Images/Password-generated.png)
 
+## Installation
+
+N/A
+
 ## Links
 
 URL to the deployed site: 
@@ -66,8 +66,7 @@ The following sources aided me in developing this project:
 
 [Build a password generator with JavaScript - Tutorial](https://youtu.be/iKo9pDKKHnc)
 
-[How to generate a random password using JavaScript](https://youtu.be/Xrsb9SiF3a8)
-
+These sites helped me understand JavaScript a little bit more. 
 
 ## License
 
