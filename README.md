@@ -56,7 +56,7 @@ N/A
 
 URL to the deployed site: 
 
-[Password Generator URL](https://gera1313.github.io/3-Password-Generator/)
+[Password Generator URL](https://gera1313.github.io/Password-Generator/)
 
 ## Credits
 
